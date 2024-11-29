@@ -1,0 +1,14 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    height: 300px;
+    justify-content: center;
+    
+}
+
+.profile h1,
+.profile img {
+    margin: 0;
+}
